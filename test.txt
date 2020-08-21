@@ -1,3 +1,5 @@
 testing
 
 after 1st merge: 2nd commit
+
+HERE'S the new line 3
